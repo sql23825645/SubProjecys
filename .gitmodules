@@ -1,3 +1,6 @@
 [submodule "MyGitReact"]
 	path = MyGitReact
 	url = https://github.com/sql23825645/MyGitReact.git
+[submodule "ttttt"]
+	path = ttttt
+	url = https://github.com/sql23825645/ttttt.git
