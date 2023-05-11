@@ -1,0 +1,3 @@
+[submodule "MyGitReact"]
+	path = MyGitReact
+	url = https://github.com/sql23825645/MyGitReact.git
